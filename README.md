@@ -1,6 +1,8 @@
 # Glow
 
-A colorful theme for [rEFInd](http://www.rodsbooks.com/refind/).
+A glow theme for [rEFInd](http://www.rodsbooks.com/refind/).
+
+![preview](https://i.imgur.com/ykXOCKS.png)
 
 ## Use
 
