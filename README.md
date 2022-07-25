@@ -1,10 +1,10 @@
 # Glow
 
-A coloruf theme for [rEFInd](http://www.rodsbooks.com/refind/).
+A colorful theme for [rEFInd](http://www.rodsbooks.com/refind/).
 
 ## Use
 
-1. Locate rEFInd directory under EFI system partiton. This is commonly `/boot/efi/EFI/refind`
+1. Locate rEFInd directory under EFI system partiton. This is commonly `/boot/efi/EFI/refind` <br>
    or `/efi/EFI/refind`. Create a theme directory here, if it doesn't already exist.
 
 2. Clone this repository into the your $HOME directory. And then copy it to the `themes` directory. 
