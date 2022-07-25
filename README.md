@@ -17,7 +17,7 @@ A glow theme for [rEFInd](http://www.rodsbooks.com/refind/).
    ```
    sudo cp -r ~/glow esp/EFI/refind/themes
    ```
-    (esp is your EFI partition here)*
+    *(esp is your EFI partition here)*
 
 
 3. Enable the theme by adding `include themes/glow/theme.conf` at the end of
